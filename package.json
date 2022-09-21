@@ -1,0 +1,23 @@
+{
+  "name": "renovate-star-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisamu/renovate-star-dependencies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rambda": "*",
+    "typescript": "4.8.3"
+  },
+  "dependencies": {
+    "nbb": "0.7.135",
+    "npm": "*"
+  }
+}
